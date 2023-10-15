@@ -1,0 +1,49 @@
+* {
+    font-family: Montserrat; 
+     
+}
+#main-heading {
+    background-color: #FFFFFF;
+    padding-left: 116px;
+    font-size: 23px;
+    line-height: 24px;
+    width: 1322px;
+    height: 91px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+#heading {
+    font-weight: 600;
+    margin-left: 116px;
+    margin-top: 31px;
+    font-size: 24px;
+    line-height: 32px;    
+}
+.para {
+    margin-left: 116px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    color: #858585;
+    line-height: 28px;    
+    font-weight: 400;
+}
+.accordion {
+    margin-left: 116px;
+    margin-right: 116px;
+}
+.firstBtn {
+    color: #737373;
+    font-weight:700;
+    font-size: 16px;
+    border: none;
+    background-color: white;
+    line-height: 54px;
+    padding-right: 900px;    
+}
+.card-title {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0.1px;
+    margin-top: 20px;
+}
